@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi 👋 I'm Amrendra Kumar
 
-<!--
-**cutencchacker/cutencchacker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Diploma in Computer Science Engineering  
+💻 Frontend Web Developer  
+🚀 Passionate about building modern & responsive web applications  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+- 🌱 Learning **React & Advanced JavaScript**
+- 💡 Interested in Web Development & UI Design
+- 📚 Working on educational & tech-based projects
+- 🎯 Goal: Full-Stack Web Developer
+
+---
+
+## 🛠️ Skills
+- HTML  
+- CSS  
+- JavaScript  
+- React  
+- Git & GitHub  
+
+---
+
+## 📌 Featured Projects
+- **ANK Engineer** – Engineering Notes Platform  
+- **AVP Notes** – Bihar Board Notes Website  
+- **AMNI Tech GPT** – AI Chatbot Web App  
+
+👉 Check repositories for source code & demos
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=cutencchacker&show_icons=true&theme=tokyonight)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cutencchacker&layout=compact&theme=tokyonight)
+
+---
+
+## 🔗 Connect With Me
+- 💼 LinkedIn: https://www.linkedin.com/in/ncc-suo-amrendra-1771b7241
+- 📧 Email: kumaramrendra87761@gmail.com
